@@ -1,0 +1,4 @@
+.persona__cuerpo{
+    display: flex;
+    flex-direction: column;
+}

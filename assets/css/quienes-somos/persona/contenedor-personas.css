@@ -1,0 +1,6 @@
+.contenedor__personas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;   
+    padding-top: 1rem;
+}

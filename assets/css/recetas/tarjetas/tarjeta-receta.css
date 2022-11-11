@@ -1,0 +1,11 @@
+.tarjeta__receta{
+    background: #fdfdfd;
+    border: 1px solid #C4C4C4;    
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;    
+    margin: 3rem;
+    max-width: 17.875rem; 
+    min-width: 25.125rem;    
+    width: 25%;
+}

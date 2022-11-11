@@ -1,0 +1,12 @@
+.destacado{   
+    position: relative;
+    background: #f9f9f9;   
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+@media screen and (max-width: 768px){
+    .destacado{
+        padding: 0;
+    }
+}

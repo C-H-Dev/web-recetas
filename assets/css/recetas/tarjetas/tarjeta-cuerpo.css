@@ -1,0 +1,10 @@
+.tarjeta__cuerpo{
+    padding: 2.5rem;
+}
+
+@media screen and (max-width: 768px) {
+    .tarjeta__cuerpo{
+        padding: 0.3rem 0.3rem;
+    }
+    
+}

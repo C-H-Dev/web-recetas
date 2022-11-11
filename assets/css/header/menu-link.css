@@ -1,0 +1,9 @@
+.menu__link{
+    text-decoration: none;
+    color: #8C8888;
+}
+
+.menu__link.activo{
+    color: #333333;
+    font-weight: bold;
+}

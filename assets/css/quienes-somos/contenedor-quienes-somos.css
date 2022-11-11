@@ -1,0 +1,11 @@
+.contenedor__quienes-somos{
+    padding: 3.5rem 2rem;
+    text-align: center;      
+}
+
+@media screen and (max-width: 768px) {
+    .contenedor__quienes-somos{
+        padding: 3.5rem 0;
+    }
+    
+}

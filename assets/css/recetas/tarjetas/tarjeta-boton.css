@@ -1,0 +1,9 @@
+.tarjeta__boton{    
+    background-color: #8D0606;
+    border-radius: 5px;
+    border: none;
+    color: #ffffff;    
+    padding: 0.9rem;
+    margin-top: 1rem;
+    width: 8rem;
+}

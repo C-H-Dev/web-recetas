@@ -1,0 +1,13 @@
+.diferencial__container{
+    text-align: center;
+    background: #FFFFFF;        
+    padding: 3.5rem 2rem;
+}
+
+@media screen and (max-width: 768px) {
+    .diferencial__container{
+        padding: 3.5rem 0;
+
+    }
+    
+}

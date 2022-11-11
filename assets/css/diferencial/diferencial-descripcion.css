@@ -1,0 +1,14 @@
+.diferencial__descripcion{
+    font-family: Roboto, cursive;
+    font-size: 1.75rem;
+    color: #8c8888;    
+    font-weight: 300;
+    text-align: center;
+}
+
+@media screen and (max-width: 768px){
+    .diferencial__descripcion{
+        text-align: justify;
+        padding: 0.3rem 0.3rem;
+    }
+}

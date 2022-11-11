@@ -1,0 +1,13 @@
+.quines-somos__descripcion{
+    color:#8C8888;
+    font-weight: 300;
+    font-size: 1.75rem;
+}
+
+@media screen and (max-width: 768px) {
+    .quines-somos__descripcion{
+        text-align: justify;
+        padding: 0 0.3rem;
+    }
+    
+}
